@@ -74,7 +74,7 @@ const reader = new FileReader();
         Password: "33517E6E04EF2B99B22CCBAADBCCB81330CE",
         To: email1,
         From: "ecofash101@gmail.com",
-        Subject: "You have applied for clothes donation !",
+        Subject: "Thank you for applying for clothes donation !",
         Body: ebody,
         subject: 'Webscript demo: file attachment',
         Attachments: [
