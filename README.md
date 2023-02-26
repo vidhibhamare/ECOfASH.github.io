@@ -12,5 +12,6 @@ HTML,
 CSS,
 JavaScript and 
 elastic email services for the backend
+(NOTE:- you will receive mails in spam folder)
 
 
